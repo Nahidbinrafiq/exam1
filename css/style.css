@@ -1,0 +1,86 @@
+*{
+	margin: 0px;
+	padding: 0px
+}
+
+.form{
+
+	background: url(../img/bg.jpg);
+
+}
+
+.container{
+
+width: 1140px;
+
+margin: 0 auto;
+
+/* margin-top: 30px; */
+}
+
+.form-left{
+
+float: left;
+
+margin: 0 auto;
+}
+
+.form-left h2{
+	
+margin-top: 30px;
+	
+color: #fff;
+	
+font-size: 22px;
+}
+
+.form-left p{
+	
+margin-top: 10px;
+	
+color: #fff;
+}
+
+.list{
+
+}
+
+.list ul{
+
+list-style: none;
+}
+
+.list ul li{
+
+}
+
+.btn{
+
+}
+
+.form-right{
+
+}
+.form-right-title{
+	
+}
+
+.form-right-title h2{
+	
+}
+
+.form-right-title p{
+	
+}
+
+.form-box{
+
+}
+
+.form-control{
+
+}
+
+.btn-two{
+
+}
